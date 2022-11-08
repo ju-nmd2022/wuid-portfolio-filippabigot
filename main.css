@@ -1,0 +1,81 @@
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+  font-size: 8rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: normal;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: solid;
+  text-align: left;
+  columns: 1;
+}
+
+header {
+  color: #d2809b;
+}
+h1 {
+  color: #d2809b;
+  text-decoration: underline;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h3 {
+  color: #d2809b;
+  font-style: italic;
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+li:hover {
+  font-weight: bolder;
+  color: #d2809b;
+}
+h4 {
+  color: #d2809b;
+  font-style: italic;
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+p2 {
+  font-weight: bold;
+}
+.bilder {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+}
+.image4 {
+  width: 33vw;
+}
+.image3 {
+  width: 33vw;
+}
+.image2 {
+  width: 33vw;
+  float: right;
+}
+.mail:hover {
+  padding: 0px;
+  transition: 0.2s; /* Animation */
+  width: 25px;
+  height: 25px;
+  margin: auto;
+}
+.instagram:hover {
+  padding: 0px;
+  transition: 0.2s; /* Animation */
+  width: 25px;
+  height: 25px;
+  margin: auto;
+}
+.linkedin:hover {
+  padding: 0px;
+  transition: 0.2s; /* Animation */
+  width: 25px;
+  height: 25px;
+  margin: auto;
+}
